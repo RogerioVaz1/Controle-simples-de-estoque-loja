@@ -73,6 +73,3 @@ Este projeto usa apenas conceitos básicos de Python:
 - Criar relatórios por categoria
 - Adicionar sistema de alertas para estoque baixo
 
-## 📄 Licença
-
-Este é um projeto educacional livre para uso e modificação.
